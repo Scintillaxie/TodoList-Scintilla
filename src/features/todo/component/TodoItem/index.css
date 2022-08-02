@@ -8,3 +8,10 @@
     line-height: 40px;
     padding: 5px;
 }
+.textButton{
+    color: rgb(48, 59, 152);
+    margin: 5px auto;
+    width: 30px;
+    height: 35px;
+}
+

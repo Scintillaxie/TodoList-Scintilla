@@ -1,7 +1,5 @@
 import React from "react";
 import { useState } from "react";
-
-// import TodoGenerator from "./TodoGenerator/TodoGenerator";
 import TodoGenerator from "./TodoGenerator/TodoGenerator";
 import TodoGroup from "./TodoGroup"
 
